@@ -36,7 +36,7 @@ In below example icon name is "DockCheckProperties" and this should be typed in 
 ![](https://s4.gifyu.com/images/icon-name.png)
 #
 #
-### Nedd help?
+### Need help?
 If you need help wit the component or want to contribute please contact me via [LinkedIn](https://www.linkedin.com/in/marek-pikosz/).
 
 ### License
